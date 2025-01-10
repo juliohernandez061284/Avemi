@@ -1,2 +1,2 @@
-# EmprendeWebMVP
-Proyecto para crear una tienda virtual mobile
+# Avemi
+Proyecto para crear una tienda virtual mobile Avemi
